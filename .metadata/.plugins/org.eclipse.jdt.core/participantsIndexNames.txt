@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/seohyunj/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/131724263.index
+/trials/src
+/Users/seohyunj/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2450727601.index
+/test01/src

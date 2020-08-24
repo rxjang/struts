@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/seohyunj/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3239237846.index
+1154887274.index
+644043653.index
+3091691456.index
+3732077845.index
+3897202641.index
+131724263.index
+3028206303.index
